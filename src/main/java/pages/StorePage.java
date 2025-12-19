@@ -58,6 +58,4 @@ private Select findDropDownElement(){
         return new ProductDetailsPage(driver);
     }
 
-
-
 }
