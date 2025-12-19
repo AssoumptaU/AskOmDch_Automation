@@ -1,4 +1,4 @@
-package slider;
+package womenpage;
 
 import base.BaseTests;
 import org.testng.annotations.Test;

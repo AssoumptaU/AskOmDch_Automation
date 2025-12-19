@@ -1,7 +1,6 @@
-package wait;
+package storepage;
 
 import base.BaseTests;
-import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
 
 public class AddToCartTests extends BaseTests {

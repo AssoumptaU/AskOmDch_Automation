@@ -1,4 +1,4 @@
-package AccountManagement;
+package Accountpage;
 
 import base.BaseTests;
 import org.testng.annotations.Test;
